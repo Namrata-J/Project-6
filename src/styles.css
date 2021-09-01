@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(4, 13, 29);
+}
+.scrolling{
+  max-width: 300px;
+  margin: auto;
+  background-color: rgb(175, 174, 88);
+  color: rgb(211, 188, 112);
+}
+h1{
+  margin-top: 0px;
+}
+p{
+  margin-bottom: 0px;
+}
+body{
+  margin: 0px;
+}
